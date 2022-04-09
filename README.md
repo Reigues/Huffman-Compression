@@ -45,7 +45,7 @@ pytest test_functions.py
 ## Sponsor
 
 Bungadrill
-[![Bungadrill](data/logo_BGD_fff.png)](https://www.instagram.com/bungadrill)
+[![Bungadrill](data/logo_BGD_fff.png | width=100)](https://www.instagram.com/bungadrill)
 
 
 ## License
