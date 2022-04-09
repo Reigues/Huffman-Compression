@@ -44,7 +44,7 @@ pytest test_functions.py
 
 ## Sponsor
 
-Bungadrill
+Bungadrill  
 <a href="https://www.instagram.com/bungadrill" target="_blank"><img src="data/logo_BGD_fff.png" alt="Bungadrill" width="100"></a>
 
 
